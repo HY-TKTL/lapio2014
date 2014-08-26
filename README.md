@@ -1,4 +1,4 @@
 lapio2014
 =========
 
-Kurssisivu http://blogs.helsinki.fi/tyovaline-2014/
+http://blogs.helsinki.fi/tyovaline-2014/
